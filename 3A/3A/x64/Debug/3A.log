@@ -1,0 +1,7 @@
+﻿  3A.cpp
+D:\Proyectos C++\Proyecto 3A y 3B\Proyecto enserio\FOR REAL\CODE FINAL\3A\3A\3A.cpp(153,47): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Proyectos C++\Proyecto 3A y 3B\Proyecto enserio\FOR REAL\CODE FINAL\3A\3A\3A.cpp(268,23): warning C4244: '=': conversión de 'unsigned long' a 'unsigned char'; posible pérdida de datos
+D:\Proyectos C++\Proyecto 3A y 3B\Proyecto enserio\FOR REAL\CODE FINAL\3A\3A\3A.cpp(279,35): warning C4244: '=': conversión de 'unsigned long' a 'unsigned char'; posible pérdida de datos
+D:\Proyectos C++\Proyecto 3A y 3B\Proyecto enserio\FOR REAL\CODE FINAL\3A\3A\3A.cpp(280,24): warning C4244: '=': conversión de 'unsigned long' a 'unsigned char'; posible pérdida de datos
+D:\Proyectos C++\Proyecto 3A y 3B\Proyecto enserio\FOR REAL\CODE FINAL\3A\3A\3A.cpp(460,35): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  3A.vcxproj -> D:\Proyectos C++\Proyecto 3A y 3B\Proyecto enserio\FOR REAL\CODE FINAL\3A\x64\Debug\3A.exe
